@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 2d12f115be06608498fdc272179f14c8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Preston_Baird_lo
+    100004: Preston_Bones
+    100006: Preston_Bones Head
+    100008: Preston_Bones L Calf
+    100010: Preston_Bones L Clavicle
+    100012: Preston_Bones L Finger0
+    100014: Preston_Bones L Finger01
+    100016: Preston_Bones L Finger02
+    100018: Preston_Bones L Finger1
+    100020: Preston_Bones L Finger11
+    100022: Preston_Bones L Finger12
+    100024: Preston_Bones L Finger2
+    100026: Preston_Bones L Finger21
+    100028: Preston_Bones L Finger22
+    100030: Preston_Bones L Finger3
+    100032: Preston_Bones L Finger31
+    100034: Preston_Bones L Finger32
+    100036: Preston_Bones L Finger4
+    100038: Preston_Bones L Finger41
+    100040: Preston_Bones L Finger42
+    100042: Preston_Bones L Foot
+    100044: Preston_Bones L Forearm
+    100046: Preston_Bones L Hand
+    100048: Preston_Bones L Thigh
+    100050: Preston_Bones L Toe0
+    100052: Preston_Bones L UpperArm
+    100054: Preston_Bones Neck
+    100056: Preston_Bones Pelvis
+    100058: Preston_Bones R Calf
+    100060: Preston_Bones R Clavicle
+    100062: Preston_Bones R Finger0
+    100064: Preston_Bones R Finger01
+    100066: Preston_Bones R Finger02
+    100068: Preston_Bones R Finger1
+    100070: Preston_Bones R Finger11
+    100072: Preston_Bones R Finger12
+    100074: Preston_Bones R Finger2
+    100076: Preston_Bones R Finger21
+    100078: Preston_Bones R Finger22
+    100080: Preston_Bones R Finger3
+    100082: Preston_Bones R Finger31
+    100084: Preston_Bones R Finger32
+    100086: Preston_Bones R Finger4
+    100088: Preston_Bones R Finger41
+    100090: Preston_Bones R Finger42
+    100092: Preston_Bones R Foot
+    100094: Preston_Bones R Forearm
+    100096: Preston_Bones R Hand
+    100098: Preston_Bones R Thigh
+    100100: Preston_Bones R Toe0
+    100102: Preston_Bones R UpperArm
+    100104: Preston_Bones Spine
+    100106: Preston_Bones Spine1
+    100108: Preston_Bones Spine2
+    400000: //RootNode
+    400002: Preston_Baird_lo
+    400004: Preston_Bones
+    400006: Preston_Bones Head
+    400008: Preston_Bones L Calf
+    400010: Preston_Bones L Clavicle
+    400012: Preston_Bones L Finger0
+    400014: Preston_Bones L Finger01
+    400016: Preston_Bones L Finger02
+    400018: Preston_Bones L Finger1
+    400020: Preston_Bones L Finger11
+    400022: Preston_Bones L Finger12
+    400024: Preston_Bones L Finger2
+    400026: Preston_Bones L Finger21
+    400028: Preston_Bones L Finger22
+    400030: Preston_Bones L Finger3
+    400032: Preston_Bones L Finger31
+    400034: Preston_Bones L Finger32
+    400036: Preston_Bones L Finger4
+    400038: Preston_Bones L Finger41
+    400040: Preston_Bones L Finger42
+    400042: Preston_Bones L Foot
+    400044: Preston_Bones L Forearm
+    400046: Preston_Bones L Hand
+    400048: Preston_Bones L Thigh
+    400050: Preston_Bones L Toe0
+    400052: Preston_Bones L UpperArm
+    400054: Preston_Bones Neck
+    400056: Preston_Bones Pelvis
+    400058: Preston_Bones R Calf
+    400060: Preston_Bones R Clavicle
+    400062: Preston_Bones R Finger0
+    400064: Preston_Bones R Finger01
+    400066: Preston_Bones R Finger02
+    400068: Preston_Bones R Finger1
+    400070: Preston_Bones R Finger11
+    400072: Preston_Bones R Finger12
+    400074: Preston_Bones R Finger2
+    400076: Preston_Bones R Finger21
+    400078: Preston_Bones R Finger22
+    400080: Preston_Bones R Finger3
+    400082: Preston_Bones R Finger31
+    400084: Preston_Bones R Finger32
+    400086: Preston_Bones R Finger4
+    400088: Preston_Bones R Finger41
+    400090: Preston_Bones R Finger42
+    400092: Preston_Bones R Foot
+    400094: Preston_Bones R Forearm
+    400096: Preston_Bones R Hand
+    400098: Preston_Bones R Thigh
+    400100: Preston_Bones R Toe0
+    400102: Preston_Bones R UpperArm
+    400104: Preston_Bones Spine
+    400106: Preston_Bones Spine1
+    400108: Preston_Bones Spine2
+    4300000: Preston_Baird_lo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Preston_Baird_lo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Preston_Bones
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Preston_Bones R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Preston(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Preston_Bones
+      position: {x: 0, y: .749290586, z: 0}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Preston_Bones Pelvis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -.499999702, y: .500000358, z: .499999702, w: .500000358}
+      scale: {x: 1, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: Preston_Bones Spine
+      position: {x: -.0776290148, y: -.000113325572, z: .0203043669}
+      rotation: {x: -7.66240009e-06, y: .0142784081, z: -.000398110104, w: .999898016}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones Spine1
+      position: {x: -.142438203, y: -.000137532057, z: 7.15255721e-09}
+      rotation: {x: 1.36656736e-05, y: -.0171620082, z: -4.74635051e-08, w: .999852717}
+      scale: {x: 1.00000024, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Preston_Bones Spine2
+      position: {x: -.172719717, y: -.000127799067, z: 0}
+      rotation: {x: 6.82121026e-13, y: -2.32830616e-10, z: 1.58818665e-22, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1.00000048}
+      transformModified: 1
+    - name: Preston_Bones Neck
+      position: {x: -.178266451, y: .00294381077, z: .000102519989}
+      rotation: {x: 2.27373703e-13, y: -1.3234893e-23, z: -5.82076679e-11, w: 1}
+      scale: {x: .999999881, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones Head
+      position: {x: -.0801618919, y: -1.59071387e-05, z: .0100501897}
+      rotation: {x: -1.14650493e-06, y: .00288469624, z: .000398836914, w: .999995768}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones L Clavicle
+      position: {x: .00421005255, y: -.0123051275, z: .0676168054}
+      rotation: {x: -.579949558, y: .00179873686, z: .814643264, w: -.0034259134}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Preston_Bones L UpperArm
+      position: {x: -.128320232, y: 2.20972674e-06, z: 4.25810322e-06}
+      rotation: {x: -.113982029, y: .134909704, z: .0239015333, w: .983989954}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Preston_Bones L Forearm
+      position: {x: -.226392344, y: 4.24884729e-06, z: 1.33209608e-06}
+      rotation: {x: -.116587304, y: .0233823974, z: .0257229079, w: .99257195}
+      scale: {x: .999999642, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones L Hand
+      position: {x: -.212981895, y: 3.9577676e-06, z: 2.00833711e-06}
+      rotation: {x: -.453896075, y: -.0183890071, z: -.0880012885, w: .88650775}
+      scale: {x: 1.00000012, y: 1.00000036, z: .99999994}
+      transformModified: 1
+    - name: Preston_Bones L Finger0
+      position: {x: -.0648757815, y: .0158513207, z: -.0424870253}
+      rotation: {x: .41583392, y: -.363852888, z: .158410177, w: .818290651}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Preston_Bones L Finger01
+      position: {x: -.0210945122, y: 7.62939436e-08, z: 0}
+      rotation: {x: 6.1575733e-08, y: -5.68715961e-07, z: -.0377710462, w: .999286473}
+      scale: {x: 1.00000048, y: 1.00000036, z: 1.00000036}
+      transformModified: 1
+    - name: Preston_Bones L Finger02
+      position: {x: -.021094894, y: 7.62939436e-08, z: 0}
+      rotation: {x: 3.72049591e-08, y: -5.89871174e-09, z: -.00834754948, w: .999965191}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones L Finger1
+      position: {x: -.116196856, y: -2.02178944e-05, z: -.0253137201}
+      rotation: {x: -.000398162694, y: 7.45650919e-09, z: -1.48981867e-08, w: .99999994}
+      scale: {x: 1.00000048, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Preston_Bones L Finger11
+      position: {x: -.0253138728, y: 7.62939436e-08, z: 2.28881831e-07}
+      rotation: {x: 3.65743489e-07, y: 2.70126066e-06, z: -.037772838, w: .999286354}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones L Finger12
+      position: {x: -.0253137965, y: -3.81469718e-08, z: 0}
+      rotation: {x: -1.02326352e-08, y: 8.70082939e-09, z: -.116402224, w: .99320215}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones L Finger2
+      position: {x: -.118534312, y: 1.64031974e-06, z: .00207771291}
+      rotation: {x: .00346650742, y: .05511434, z: -.0698015019, w: .996031225}
+      scale: {x: 1.0000006, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: Preston_Bones L Finger21
+      position: {x: -.0295328889, y: 0, z: 0}
+      rotation: {x: -9.63620224e-08, y: -1.57678403e-06, z: -.0369820707, w: .999315977}
+      scale: {x: 1.00000048, y: 1.00000048, z: 1.00000024}
+      transformModified: 1
+    - name: Preston_Bones L Finger22
+      position: {x: -.0240800083, y: 3.81469718e-08, z: -7.62939436e-08}
+      rotation: {x: -1.47998653e-08, y: 1.73452819e-09, z: -.116402216, w: .99320215}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Preston_Bones L Finger3
+      position: {x: -.118240505, y: -.00262798299, z: .0304200742}
+      rotation: {x: -.00371719711, y: .0867352337, z: -.0154257463, w: .996105075}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Preston_Bones L Finger31
+      position: {x: -.0206558611, y: 0, z: 1.52587887e-07}
+      rotation: {x: 2.05228332e-07, y: -2.57944663e-07, z: -.0403462015, w: .999185801}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: Preston_Bones L Finger32
+      position: {x: -.0211965553, y: 0, z: 1.52587887e-07}
+      rotation: {x: -8.52776871e-09, y: -1.43119854e-08, z: -.0736466721, w: .997284412}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones L Finger4
+      position: {x: -.0893055722, y: -.000222549439, z: .0378993973}
+      rotation: {x: -.011064278, y: .0730314925, z: -.00277195382, w: .997264445}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones L Finger41
+      position: {x: -.0210948363, y: 0, z: 7.62939436e-08}
+      rotation: {x: 1.43810993e-07, y: 3.88717467e-07, z: -.0396160223, w: .999215066}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Preston_Bones L Finger42
+      position: {x: -.0192611683, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -.0555776618, w: .998454392}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones R Clavicle
+      position: {x: .0111737056, y: -.0148589704, z: -.0731863976}
+      rotation: {x: .596208572, y: .081139043, z: .797215521, w: .0489825867}
+      scale: {x: 1.00000012, y: .999999523, z: .999999762}
+      transformModified: 1
+    - name: Preston_Bones R UpperArm
+      position: {x: -.110836856, y: -6.82802437e-08, z: -9.10471408e-06}
+      rotation: {x: -.0874699131, y: -.119538829, z: .0555043034, w: .987410188}
+      scale: {x: 1.00000024, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones R Forearm
+      position: {x: -.222284675, y: 2.91175297e-06, z: -4.93066364e-06}
+      rotation: {x: .155939817, y: -.0260053724, z: .0216670651, w: .987186432}
+      scale: {x: .99999994, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones R Hand
+      position: {x: -.21262078, y: 8.77151649e-07, z: -3.68157703e-06}
+      rotation: {x: .588596046, y: .0222941153, z: -.0624809153, w: .805700898}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones R Finger0
+      position: {x: -.0553977713, y: .0134477215, z: .0442936234}
+      rotation: {x: -.415651381, y: .320122212, z: .167581826, w: .834668875}
+      scale: {x: 1.00000024, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: Preston_Bones R Finger01
+      position: {x: -.0210948177, y: -7.62939436e-08, z: 9.5367426e-08}
+      rotation: {x: 1.15397128e-07, y: -4.55270339e-07, z: -.0398583673, w: .999205351}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones R Finger02
+      position: {x: -.0210947413, y: -1.90734859e-08, z: 3.81469718e-08}
+      rotation: {x: -2.57111243e-09, y: -1.67448881e-08, z: -.0075436593, w: .999971569}
+      scale: {x: .99999994, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones R Finger1
+      position: {x: -.099350661, y: .00462997425, z: .0325392149}
+      rotation: {x: -.00360110449, y: .0804067776, z: -.0494723693, w: .995527148}
+      scale: {x: 1, y: 1.00000024, z: .999999702}
+      transformModified: 1
+    - name: Preston_Bones R Finger11
+      position: {x: -.0253139101, y: 0, z: 7.62939436e-08}
+      rotation: {x: 1.4338292e-07, y: 2.09382188e-06, z: -.0377708226, w: .999286413}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Preston_Bones R Finger12
+      position: {x: -.0209928881, y: 0, z: 0}
+      rotation: {x: -9.57100621e-09, y: 1.53424615e-08, z: -.0445188954, w: .999008536}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones R Finger2
+      position: {x: -.105168149, y: .00379623403, z: .00610229466}
+      rotation: {x: -.00241148635, y: .0508947261, z: -.0977390856, w: .993906975}
+      scale: {x: 1.00000036, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: Preston_Bones R Finger21
+      position: {x: -.0295328517, y: 0, z: 7.62939436e-08}
+      rotation: {x: 1.6065421e-08, y: 2.24519431e-06, z: -.039996393, w: .999199867}
+      scale: {x: 1, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Preston_Bones R Finger22
+      position: {x: -.0261945724, y: -3.81469718e-08, z: -1.52587887e-07}
+      rotation: {x: 1.41541605e-08, y: -1.56124642e-08, z: -.0489324853, w: .998802125}
+      scale: {x: .999999881, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Preston_Bones R Finger3
+      position: {x: -.104601517, y: .00326934806, z: -.0159433745}
+      rotation: {x: .00529882358, y: -.0495240316, z: -.0406848304, w: .997929931}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: Preston_Bones R Finger31
+      position: {x: -.0253139492, y: 1.52587887e-07, z: 3.05175774e-07}
+      rotation: {x: 1.56825863e-07, y: 3.73300099e-06, z: -.0397929586, w: .999208033}
+      scale: {x: 1, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones R Finger32
+      position: {x: -.020702133, y: -3.81469718e-08, z: 7.62939436e-08}
+      rotation: {x: -1.48887658e-08, y: 6.0766131e-10, z: -.0407794602, w: .999168158}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Preston_Bones R Finger4
+      position: {x: -.0882600769, y: .00731918309, z: -.0381641388}
+      rotation: {x: .0204325095, y: -.0430041477, z: -.0275029633, w: .998487234}
+      scale: {x: 1, y: 1.00000036, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones R Finger41
+      position: {x: -.021094704, y: -3.81469718e-08, z: 0}
+      rotation: {x: 1.09176085e-07, y: -7.40305524e-08, z: -.0394756235, w: .99922055}
+      scale: {x: 1.00000012, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: Preston_Bones R Finger42
+      position: {x: -.0171493143, y: 3.81469718e-08, z: 0}
+      rotation: {x: -8.76354045e-10, y: 1.48753694e-08, z: .0588111207, w: .998269141}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Preston_Bones L Thigh
+      position: {x: 1.52587887e-07, y: 1.442246e-07, z: .0911713988}
+      rotation: {x: -.0260066967, y: .996103525, z: -.0042375871, w: .0841633305}
+      scale: {x: .99999994, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones L Calf
+      position: {x: -.371749729, y: -4.76837148e-09, z: -3.81469718e-08}
+      rotation: {x: 1.7390096e-09, y: -7.30440686e-09, z: .109152794, w: .994024992}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Preston_Bones L Foot
+      position: {x: -.297783345, y: 2.38418574e-09, z: 1.90734859e-08}
+      rotation: {x: -.0427620895, y: .0880101696, z: -.0787364691, w: .992081761}
+      scale: {x: .99999994, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: Preston_Bones L Toe0
+      position: {x: -.0829331651, y: .112079419, z: 0}
+      rotation: {x: -1.80890538e-08, y: 1.28196946e-08, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Preston_Bones R Thigh
+      position: {x: -1.52587887e-07, y: -7.13765616e-08, z: -.0911714137}
+      rotation: {x: -.0292318054, y: .995961368, z: .00254594674, w: -.0848526657}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones R Calf
+      position: {x: -.3375175, y: 0, z: -3.81469718e-08}
+      rotation: {x: 0, y: 0, z: .14678821, w: .989167988}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones R Foot
+      position: {x: -.337517262, y: -9.53674295e-09, z: -3.81469718e-08}
+      rotation: {x: .0279972162, y: -.0887399763, z: -.113962524, w: .989117742}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Preston_Bones R Toe0
+      position: {x: -.0776289627, y: .125675991, z: -5.72204577e-08}
+      rotation: {x: -1.80885529e-08, y: 1.28200339e-08, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Preston_Baird_lo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
