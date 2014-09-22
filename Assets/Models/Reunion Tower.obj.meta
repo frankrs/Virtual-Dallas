@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 3094e491359b6544fa902bf04c30db35
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Base_Line04_02_-_Default
+    100002: Base_Line04_03_-_Default
+    100004: Concrete_Circle07.000_Tower_Stripes.002
+    100006: GeoSphere0_GeoSphere0_01_-_Default
+    100008: Main_Deck_Cylinder03_02_-_Default
+    100010: Main_Deck_Cylinder03_03_-_Default
+    100012: //RootNode
+    100014: Roof_Line06_02_-_Default
+    100016: Secondary_Deck_Line05_02_-_Default
+    100018: Secondary_Deck_Line05_03_-_Default
+    100020: Windows_Circle07.001_03_-_Default
+    400000: Base_Line04_02_-_Default
+    400002: Base_Line04_03_-_Default
+    400004: Concrete_Circle07.000_Tower_Stripes.002
+    400006: GeoSphere0_GeoSphere0_01_-_Default
+    400008: Main_Deck_Cylinder03_02_-_Default
+    400010: Main_Deck_Cylinder03_03_-_Default
+    400012: //RootNode
+    400014: Roof_Line06_02_-_Default
+    400016: Secondary_Deck_Line05_02_-_Default
+    400018: Secondary_Deck_Line05_03_-_Default
+    400020: Windows_Circle07.001_03_-_Default
+    2300000: Base_Line04_02_-_Default
+    2300002: Base_Line04_03_-_Default
+    2300004: Concrete_Circle07.000_Tower_Stripes.002
+    2300006: GeoSphere0_GeoSphere0_01_-_Default
+    2300008: Main_Deck_Cylinder03_02_-_Default
+    2300010: Main_Deck_Cylinder03_03_-_Default
+    2300012: Roof_Line06_02_-_Default
+    2300014: Secondary_Deck_Line05_02_-_Default
+    2300016: Secondary_Deck_Line05_03_-_Default
+    2300018: Windows_Circle07.001_03_-_Default
+    3300000: Base_Line04_02_-_Default
+    3300002: Base_Line04_03_-_Default
+    3300004: Concrete_Circle07.000_Tower_Stripes.002
+    3300006: GeoSphere0_GeoSphere0_01_-_Default
+    3300008: Main_Deck_Cylinder03_02_-_Default
+    3300010: Main_Deck_Cylinder03_03_-_Default
+    3300012: Roof_Line06_02_-_Default
+    3300014: Secondary_Deck_Line05_02_-_Default
+    3300016: Secondary_Deck_Line05_03_-_Default
+    3300018: Windows_Circle07.001_03_-_Default
+    4300000: Base_Line04_02_-_Default
+    4300002: Base_Line04_03_-_Default
+    4300004: Concrete_Circle07.000_Tower_Stripes.002
+    4300006: GeoSphere0_GeoSphere0_01_-_Default
+    4300008: Main_Deck_Cylinder03_02_-_Default
+    4300010: Main_Deck_Cylinder03_03_-_Default
+    4300012: Roof_Line06_02_-_Default
+    4300014: Secondary_Deck_Line05_02_-_Default
+    4300016: Secondary_Deck_Line05_03_-_Default
+    4300018: Windows_Circle07.001_03_-_Default
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
