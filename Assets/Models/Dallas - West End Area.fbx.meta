@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 3fda6f0c9f4fb5046bc1477831b7fcd6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Directional Light
+    100006: Main_01
+    100008: 'dab1 '
+    100010: 'dab19 '
+    100012: 'dab2 '
+    100014: 'dab20 '
+    100016: 'dab3 '
+    100018: 'dab4 '
+    100020: 'dab5 '
+    100022: 'dag0 '
+    100024: 'dag3 '
+    100026: ReunionBLAH
+    100028: dab4_whitebuilding
+    100030: Texture Group
+    100032: TextureLocators
+    100034: West End - M
+    100036: 'TextureLocators '
+    100038: TextureLocators  1
+    100040: 'TextureLocators  '
+    400000: Camera
+    400002: //RootNode
+    400004: Directional Light
+    400006: Main_01
+    400008: 'dab1 '
+    400010: 'dab19 '
+    400012: 'dab2 '
+    400014: 'dab20 '
+    400016: 'dab3 '
+    400018: 'dab4 '
+    400020: 'dab5 '
+    400022: 'dag0 '
+    400024: 'dag3 '
+    400026: ReunionBLAH
+    400028: dab4_whitebuilding
+    400030: Texture Group
+    400032: TextureLocators
+    400034: West End - M
+    400036: 'TextureLocators '
+    400038: TextureLocators  1
+    400040: 'TextureLocators  '
+    2300000: Main_01
+    2300002: 'dab1 '
+    2300004: 'dab19 '
+    2300006: 'dab2 '
+    2300008: 'dab20 '
+    2300010: 'dab3 '
+    2300012: 'dab4 '
+    2300014: 'dab5 '
+    2300016: 'dag0 '
+    2300018: 'dag3 '
+    2300020: ReunionBLAH
+    2300022: dab4_whitebuilding
+    2300024: West End - M
+    3300000: Main_01
+    3300002: 'dab1 '
+    3300004: 'dab19 '
+    3300006: 'dab2 '
+    3300008: 'dab20 '
+    3300010: 'dab3 '
+    3300012: 'dab4 '
+    3300014: 'dab5 '
+    3300016: 'dag0 '
+    3300018: 'dag3 '
+    3300020: ReunionBLAH
+    3300022: dab4_whitebuilding
+    3300024: West End - M
+    4300000: Main_01
+    4300002: 'dab1 '
+    4300004: 'dab19 '
+    4300006: 'dab2 '
+    4300008: 'dab20 '
+    4300010: 'dab3 '
+    4300012: 'dab4 '
+    4300014: 'dab5 '
+    4300016: 'dag0 '
+    4300018: 'dag3 '
+    4300020: ReunionBLAH
+    4300022: dab4_whitebuilding
+    4300024: West End - M
+    6400000: Main_01
+    6400002: 'dab1 '
+    6400004: 'dab19 '
+    6400006: 'dab2 '
+    6400008: 'dab20 '
+    6400010: 'dab3 '
+    6400012: 'dab4 '
+    6400014: 'dab5 '
+    6400016: 'dag0 '
+    6400018: 'dag3 '
+    6400020: ReunionBLAH
+    6400022: dab4_whitebuilding
+    6400024: West End - M
+    7400000: modo_Anim
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
