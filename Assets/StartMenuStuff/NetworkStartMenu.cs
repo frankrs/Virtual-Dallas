@@ -41,6 +41,16 @@ public class NetworkStartMenu : MonoBehaviour {
 						}
 					}
 				GUILayout.EndHorizontal();
+
+				GUILayout.BeginHorizontal();
+					if(GUILayout.Button("Jason")){
+						GameInfo.avatarName = AvatarName.JasonScaledNet;
+						}
+					if(GUILayout.Button("Preston")){
+						GameInfo.avatarName = AvatarName.PrestonScaledNet;
+						}
+				GUILayout.EndHorizontal();
+
 				}
 			if(startPageState == StartPageState.connecting){
 				GUILayout.Box(PhotonNetwork.connectionState.ToString());

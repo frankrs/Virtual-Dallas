@@ -23,7 +23,7 @@ public class SpawnPlayer : MonoBehaviour {
 		spawnPoint = GameObject.FindGameObjectWithTag("SpawnPoint").transform;
 		map = GameObject.Find("MiniMapCam").GetComponent<MiniMapCam>();
 
-		GameObject player = PhotonNetwork.Instantiate("JasonScaledNet",spawnPoint.position,Quaternion.identity,0);
+		GameObject player = PhotonNetwork.Instantiate(GameInfo.avatarName.ToString(),spawnPoint.position,Quaternion.identity,0);
 
 		map.tran = player.transform;
 		map.enabled = true;
