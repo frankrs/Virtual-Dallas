@@ -5,18 +5,19 @@ public class MoviePlay : MonoBehaviour {
 
 	public MovieTexture mov;
 
+	void Awake(){
+		mov.Stop();
+	}
+
 	void Update(){
-		if(Input.GetKeyDown("space")){
+		if(Input.GetKeyDown("p")){
 			PlayScenerio();
 		}
 	}
-
-	void OnTriggerEnter(Collider col){
-
-	}
-
+	
 
 	void PlayScenerio() {
+		mov.Stop();
 		mov.Play();
 	}
 	
