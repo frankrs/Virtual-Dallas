@@ -637,13 +637,108 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: JasonBones Neck
-      position: {x: -.153084919, y: -4.60138399e-05, z: 2.04602308e-08}
-      rotation: {x: -1.08265979e-07, y: 4.31724686e-07, z: -.165798038, w: .986159742}
+      position: {x: -.153084859, y: -4.60138908e-05, z: 0}
+      rotation: {x: -9.58036818e-14, y: 7.00757369e-07, z: -.252652615, w: .967557073}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
+    - name: JasonBones R Clavicle
+      position: {x: -.00983581506, y: -.00546997041, z: -.0629835501}
+      rotation: {x: .58339411, y: .268345386, z: .757459044, w: -.117889903}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: JasonBones R UpperArm
+      position: {x: -.114794426, y: -4.76837148e-09, z: 0}
+      rotation: {x: -.324547678, y: -.10318692, z: .10270188, w: .934598088}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: JasonBones R Forearm
+      position: {x: -.332700193, y: -7.62939436e-08, z: 7.62939436e-08}
+      rotation: {x: .00973549299, y: -.0221134424, z: .0116325468, w: .999640405}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: JasonBones R Hand
+      position: {x: -.264909893, y: -1.90734859e-08, z: 0}
+      rotation: {x: .876048207, y: .0279119685, z: -.137500912, w: .46136108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JasonBones R Finger1
+      position: {x: -.117124096, y: -.00140251161, z: .0216728207}
+      rotation: {x: -.00188529096, y: .0299469642, z: .0206281729, w: .999336839}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: JasonBones R Finger11
+      position: {x: -.0289031211, y: 0, z: 0}
+      rotation: {x: 1.66121499e-08, y: -1.25203215e-07, z: -.0402096137, w: .999191284}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JasonBones R Finger12
+      position: {x: -.0289031211, y: -3.81469718e-08, z: 0}
+      rotation: {x: 3.72501985e-09, y: -4.48992649e-11, z: -.0120525546, w: .999927402}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: JasonBones R Finger0
+      position: {x: -.0500529483, y: .0157102961, z: .0352814272}
+      rotation: {x: -.366062462, y: .391684294, z: .164374501, w: .827987134}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: JasonBones R Finger01
+      position: {x: -.0273953248, y: 0, z: 3.81469718e-08}
+      rotation: {x: .00100441161, y: .0264633782, z: -.0317847691, w: .999143839}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: JasonBones R Finger02
+      position: {x: -.0273953248, y: 0, z: 3.81469718e-08}
+      rotation: {x: 1.60566771e-09, y: -1.48143995e-08, z: .107754536, w: .99417752}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: JasonBones R Finger2
+      position: {x: -.112772904, y: -.00293636322, z: -.00783180259}
+      rotation: {x: .00402227743, y: -.0531825311, z: .0227915943, w: .998316586}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: JasonBones R Finger21
+      position: {x: -.033720322, y: 3.81469718e-08, z: 1.90734859e-08}
+      rotation: {x: -1.77614385e-08, y: -1.00018831e-07, z: -.0411718152, w: .999152124}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: JasonBones R Finger22
+      position: {x: -.0337202437, y: 0, z: 0}
+      rotation: {x: -3.06158397e-11, y: -7.46505524e-09, z: .0582845621, w: .998300016}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: JasonBones R Finger3
+      position: {x: -.113103405, y: -.00193717948, z: -.0314220414}
+      rotation: {x: -.00236175349, y: -.116270229, z: .0192467347, w: .993028343}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: JasonBones R Finger31
+      position: {x: -.0289030448, y: 0, z: 0}
+      rotation: {x: -1.14007381e-08, y: 4.26209679e-10, z: -.0373582989, w: .99930197}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: JasonBones R Finger32
+      position: {x: -.0289031211, y: 0, z: 0}
+      rotation: {x: -3.92442789e-09, y: -9.19936682e-10, z: -.00290225307, w: .999995828}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: JasonBones R Finger4
+      position: {x: -.0947608948, y: .00743942242, z: -.0458721928}
+      rotation: {x: .0154108638, y: -.103605613, z: -.00254546152, w: .994495869}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: JasonBones R Finger41
+      position: {x: -.0240859985, y: 0, z: 0}
+      rotation: {x: -1.20366039e-07, y: 1.14857892e-06, z: -.0377715938, w: .999286413}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: JasonBones R Finger42
+      position: {x: -.0240859222, y: -3.81469718e-08, z: -3.81469718e-08}
+      rotation: {x: -7.44832773e-09, y: 1.8317349e-10, z: -.0245851334, w: .999697745}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
     - name: JasonBones Head
-      position: {x: -.0662274584, y: -1.01902259e-07, z: 1.53665063e-08}
-      rotation: {x: -5.90111036e-08, y: -3.37542332e-07, z: .110723361, w: .993851304}
+      position: {x: -.0662274137, y: 0, z: 1.19209287e-09}
+      rotation: {x: -5.90014487e-14, y: -1.51122435e-07, z: .0544867218, w: .998514533}
       scale: {x: 1, y: 1, z: .99999994}
       transformModified: 1
     - name: JasonBones L Clavicle
@@ -662,8 +757,8 @@ ModelImporter:
       scale: {x: .999999881, y: 1, z: 1}
       transformModified: 1
     - name: JasonBones L Hand
-      position: {x: -.2648983, y: -1.48505274e-06, z: 3.11476043e-07}
-      rotation: {x: .823469639, y: .0483797453, z: .010155472, w: -.565202773}
+      position: {x: -.264909893, y: -5.72204577e-08, z: 0}
+      rotation: {x: .88090539, y: -.00977349561, z: .115708992, w: -.458826452}
       scale: {x: .99999994, y: 1, z: 1}
       transformModified: 1
     - name: JasonBones L Finger0
@@ -727,8 +822,8 @@ ModelImporter:
       scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
       transformModified: 1
     - name: JasonBones L Finger4
-      position: {x: -.0963549316, y: .0166517552, z: .042187281}
-      rotation: {x: -.0352149568, y: .116674401, z: -.0305575207, w: .992075205}
+      position: {x: -.096358031, y: .0166513436, z: .0421877094}
+      rotation: {x: -.0262004137, y: .106362484, z: -.0327611975, w: .993442118}
       scale: {x: 1, y: 1, z: 1.00000012}
       transformModified: 1
     - name: JasonBones L Finger41
@@ -740,101 +835,6 @@ ModelImporter:
       position: {x: -.0240859222, y: 1.90734859e-08, z: 0}
       rotation: {x: 7.08198122e-09, y: -1.50798289e-08, z: -.0245851073, w: .999697745}
       scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
-      transformModified: 1
-    - name: JasonBones R Clavicle
-      position: {x: -.00983581506, y: -.00546997041, z: -.0629835501}
-      rotation: {x: .58339411, y: .268345386, z: .757459044, w: -.117889903}
-      scale: {x: .99999994, y: 1, z: 1}
-      transformModified: 1
-    - name: JasonBones R UpperArm
-      position: {x: -.114794426, y: -4.76837148e-09, z: 0}
-      rotation: {x: -.324547678, y: -.10318692, z: .10270188, w: .934598088}
-      scale: {x: 1.00000012, y: 1, z: 1.00000024}
-      transformModified: 1
-    - name: JasonBones R Forearm
-      position: {x: -.332700193, y: -7.62939436e-08, z: 7.62939436e-08}
-      rotation: {x: .00973549299, y: -.0221134424, z: .0116325468, w: .999640405}
-      scale: {x: .999999881, y: 1, z: 1}
-      transformModified: 1
-    - name: JasonBones R Hand
-      position: {x: -.26491189, y: -8.54781774e-06, z: 1.33723115e-05}
-      rotation: {x: .825248539, y: .0877082869, z: -.0320950747, w: .556993842}
-      scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
-    - name: JasonBones R Finger0
-      position: {x: -.0500529483, y: .0157102961, z: .0352814272}
-      rotation: {x: -.366062462, y: .391684294, z: .164374501, w: .827987134}
-      scale: {x: 1.00000024, y: 1, z: 1.00000012}
-      transformModified: 1
-    - name: JasonBones R Finger01
-      position: {x: -.0273953248, y: 0, z: 3.81469718e-08}
-      rotation: {x: .00100441161, y: .0264633782, z: -.0317847691, w: .999143839}
-      scale: {x: 1, y: 1, z: .999999881}
-      transformModified: 1
-    - name: JasonBones R Finger02
-      position: {x: -.0273953248, y: 0, z: 3.81469718e-08}
-      rotation: {x: 1.60566771e-09, y: -1.48143995e-08, z: .107754536, w: .99417752}
-      scale: {x: 1, y: 1, z: .99999994}
-      transformModified: 1
-    - name: JasonBones R Finger1
-      position: {x: -.117124096, y: -.00140251161, z: .0216728207}
-      rotation: {x: -.00188529096, y: .0299469642, z: .0206281729, w: .999336839}
-      scale: {x: 1.00000012, y: 1, z: 1.00000012}
-      transformModified: 1
-    - name: JasonBones R Finger11
-      position: {x: -.0289031211, y: 0, z: 0}
-      rotation: {x: 1.66121499e-08, y: -1.25203215e-07, z: -.0402096137, w: .999191284}
-      scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
-    - name: JasonBones R Finger12
-      position: {x: -.0289031211, y: -3.81469718e-08, z: 0}
-      rotation: {x: 3.72501985e-09, y: -4.48992649e-11, z: -.0120525546, w: .999927402}
-      scale: {x: .999999881, y: 1, z: 1}
-      transformModified: 1
-    - name: JasonBones R Finger2
-      position: {x: -.112772904, y: -.00293636322, z: -.00783180259}
-      rotation: {x: .00402227743, y: -.0531825311, z: .0227915943, w: .998316586}
-      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
-      transformModified: 1
-    - name: JasonBones R Finger21
-      position: {x: -.033720322, y: 3.81469718e-08, z: 1.90734859e-08}
-      rotation: {x: -1.77614385e-08, y: -1.00018831e-07, z: -.0411718152, w: .999152124}
-      scale: {x: 1, y: 1, z: 1.00000012}
-      transformModified: 1
-    - name: JasonBones R Finger22
-      position: {x: -.0337202437, y: 0, z: 0}
-      rotation: {x: -3.06158397e-11, y: -7.46505524e-09, z: .0582845621, w: .998300016}
-      scale: {x: 1, y: 1, z: 1.00000012}
-      transformModified: 1
-    - name: JasonBones R Finger3
-      position: {x: -.113103405, y: -.00193717948, z: -.0314220414}
-      rotation: {x: -.00236175349, y: -.116270229, z: .0192467347, w: .993028343}
-      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
-      transformModified: 1
-    - name: JasonBones R Finger31
-      position: {x: -.0289030448, y: 0, z: 0}
-      rotation: {x: -1.14007381e-08, y: 4.26209679e-10, z: -.0373582989, w: .99930197}
-      scale: {x: .99999994, y: 1, z: 1}
-      transformModified: 1
-    - name: JasonBones R Finger32
-      position: {x: -.0289031211, y: 0, z: 0}
-      rotation: {x: -3.92442789e-09, y: -9.19936682e-10, z: -.00290225307, w: .999995828}
-      scale: {x: 1.00000012, y: 1, z: 1.00000012}
-      transformModified: 1
-    - name: JasonBones R Finger4
-      position: {x: -.0947637632, y: .00744594261, z: -.0458719209}
-      rotation: {x: .0251172539, y: -.110939175, z: -.00978741981, w: .993461549}
-      scale: {x: 1.00000012, y: 1, z: 1.00000012}
-      transformModified: 1
-    - name: JasonBones R Finger41
-      position: {x: -.0240859985, y: 0, z: 0}
-      rotation: {x: -1.20366039e-07, y: 1.14857892e-06, z: -.0377715938, w: .999286413}
-      scale: {x: 1.00000012, y: 1, z: 1}
-      transformModified: 1
-    - name: JasonBones R Finger42
-      position: {x: -.0240859222, y: -3.81469718e-08, z: -3.81469718e-08}
-      rotation: {x: -7.44832773e-09, y: 1.8317349e-10, z: -.0245851334, w: .999697745}
-      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
       transformModified: 1
     armTwist: .5
     foreArmTwist: .5
