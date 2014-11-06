@@ -4,6 +4,7 @@ using System.Collections;
 public static class GameInfo  {
 
 	public static AvatarName avatarName;
+	public static GameMode gameMode;
 
 }
 
@@ -11,5 +12,12 @@ public static class GameInfo  {
 [System.Serializable]
 public enum AvatarName{
 	JasonScaledNet,
-	PrestonScaledNet
+	PrestonScaledNet,
+	OVRBlank
+}
+
+[System.Serializable]
+public enum GameMode{
+	Normal,
+	VR
 }

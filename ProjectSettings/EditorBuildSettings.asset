@@ -11,3 +11,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Dealey_PlazaNetworked.unity
   - enabled: 0
     path: Assets/Scenes/CardBoard.unity
+  - enabled: 0
+    path: Assets/Scenes/Dealey_PlazaNetworkedRift.unity

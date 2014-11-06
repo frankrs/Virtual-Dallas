@@ -45,9 +45,15 @@ public class NetworkStartMenu : MonoBehaviour {
 				GUILayout.BeginHorizontal();
 					if(GUILayout.Button("Jason")){
 						GameInfo.avatarName = AvatarName.JasonScaledNet;
+						GameInfo.gameMode = GameMode.Normal;
 						}
 					if(GUILayout.Button("Preston")){
 						GameInfo.avatarName = AvatarName.PrestonScaledNet;
+						GameInfo.gameMode = GameMode.Normal;
+						}
+					if(GUILayout.Button("Rift")){
+						GameInfo.avatarName = AvatarName.OVRBlank;
+						GameInfo.gameMode = GameMode.VR;
 						}
 				GUILayout.EndHorizontal();
 
