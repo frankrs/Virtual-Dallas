@@ -97,13 +97,13 @@ PlayerSettings:
   iPadHighResLandscapeSplashScreen: {fileID: 0}
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: C:/Users/Frank S/Desktop/usb_driver/Virtual-Dallas/Assets/mykeystore.keystore
+  AndroidKeyaliasName: tworows pizza
   resolutionDialogBanner: {fileID: 0}
   m_BuildTargetIcons:
   - m_BuildTarget: 
     m_Icons:
-    - m_Icon: {fileID: 0}
+    - m_Icon: {fileID: 2800000, guid: 1becb4fe2e1906c4f95f93d5780ac11c, type: 3}
       m_Size: 128
   m_BuildTargetBatching:
   - m_BuildTarget: Web
