@@ -102,8 +102,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1636625d3594c49961ef89520180c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  h: 480
-  w: 640
+  h: 611
+  w: 1087
   guiTexture: {fileID: 616292485}
 --- !u!131 &616292485
 GUITexture:
@@ -118,8 +118,8 @@ GUITexture:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 640
-    height: 480
+    width: 1087
+    height: 611
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -247,8 +247,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d77eeeef8b8d2a546a0eb378c35f9586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  h: 480
-  w: 640
+  h: 611
+  w: 1087
   skin: {fileID: 11400000, guid: 203718cdf05c95c48af20ab0cfe26559, type: 2}
   startPageState: 0
   playersName: 
